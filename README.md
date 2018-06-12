@@ -1,8 +1,13 @@
-These are the homework exercises from Andrew Ng's Coursera course on
-Machine Learning, except instead of using Matlab/Octave, I've done the
-exercises in Python using numpy, pandas, and scikit-learn. I completed
-all of the Octave exercises and thought it would be instructive to go
-through them with Python.
+# Machine Learning in Python
+
+These are completed homework exercises from [Andrew Ng's Coursera
+course on Machine
+Learning](https://www.coursera.org/learn/machine-learning), except
+instead of using Matlab/Octave, I've done the exercises in Python. If
+the exercise called for writing one's own routine or function in
+Octave, I generally tried to do the same think with pandas and numpy
+and then do it a third time using scikit-learn. Sometimes this meant
+rewriting some of the provided Octave routines.
 
 1. [Linear Regression](https://github.com/wesbarnett/MachineLearning/tree/master/ex1) 
 2. [Logistic Regression](https://github.com/wesbarnett/MachineLearning/tree/master/ex2)
