@@ -10,3 +10,7 @@ through them with Python.
 4. [Neural Networks](https://github.com/wesbarnett/MachineLearning/blob/master/Neural%20Networks.ipynb) [[online viewer](https://nbviewer.jupyter.org/github/wesbarnett/MachineLearning/blob/master/Neural%20Networks.ipynb)]
 5. [Regularized Linear Regression and Bias vs. Variancel](https://github.com/wesbarnett/MachineLearning/blob/master/Regularized%20Linear%20Regression%20and%20Bias%20vs.%20Variance.ipynb) [[online viewer](https://nbviewer.jupyter.org/github/wesbarnett/MachineLearning/blob/master/Regularized%20Linear%20Regression%20and%20Bias%20vs.%20Variance.ipynb)]
 6. [Support Vector Machines](https://github.com/wesbarnett/MachineLearning/blob/master/Support%20Vector%20Machines.ipynb) [[online viewer](https://nbviewer.jupyter.org/github/wesbarnett/MachineLearning/blob/master/Support%20Vector%20Machines.ipynb)]
+7. [K-means Clustering and Principal Component
+   Analysis](https://github.com/wesbarnett/MachineLearning/blob/master/K-means%20Clustering%20and%20Principal%20Component%20Analysis.ipynb)
+[[online
+viewer](https://nbviewer.jupyter.org/github/wesbarnett/MachineLearning/blob/master/K-means%20Clustering%20and%20Principal%20Component%20Analysis.ipynb)]
