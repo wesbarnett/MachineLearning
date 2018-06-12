@@ -8,7 +8,7 @@ through them with Python.
 2. [Logistic Regression](https://github.com/wesbarnett/MachineLearning/tree/master/ex2)
 3. [Multiclass Classification and Neural Networks](https://github.com/wesbarnett/MachineLearning/tree/master/ex3)
 4. [Neural Networks](https://github.com/wesbarnett/MachineLearning/tree/master/ex4)
-5. [Regularized Linear Regression and Bias vs. Variancel](https://github.com/wesbarnett/MachineLearning/tree/master/ex5)
+5. [Regularized Linear Regression and Bias vs. Variance](https://github.com/wesbarnett/MachineLearning/tree/master/ex5)
 6. [Support Vector Machines](https://github.com/wesbarnett/MachineLearning/tree/master/ex6)
 7. [K-means Clustering and Principal Component Analysis](https://github.com/wesbarnett/MachineLearning/tree/master/ex7)
 8. Anomaly Detection and Recommender Systems - TODO
