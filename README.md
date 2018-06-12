@@ -14,3 +14,4 @@ through them with Python.
    Analysis](https://github.com/wesbarnett/MachineLearning/blob/master/K-means%20Clustering%20and%20Principal%20Component%20Analysis.ipynb)
 [[online
 viewer](https://nbviewer.jupyter.org/github/wesbarnett/MachineLearning/blob/master/K-means%20Clustering%20and%20Principal%20Component%20Analysis.ipynb)]
+8. Anomaly Detection and Recommender Systems - TODO
