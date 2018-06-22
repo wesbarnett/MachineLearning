@@ -16,4 +16,4 @@ Sometimes this meant rewriting some of the provided Octave routines.
 5. [Regularized Linear Regression and Bias vs. Variance](https://github.com/wesbarnett/MachineLearning/tree/master/ex5)
 6. [Support Vector Machines](https://github.com/wesbarnett/MachineLearning/tree/master/ex6)
 7. [K-means Clustering and Principal Component Analysis](https://github.com/wesbarnett/MachineLearning/tree/master/ex7)
-8. Anomaly Detection and Recommender Systems - TODO
+8. [Anomaly Detection and Recommender Systems](https://github.com/wesbarnett/MachineLearning/tree/master/ex8)
